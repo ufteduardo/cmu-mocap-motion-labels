@@ -1,0 +1,1040 @@
+class_id,label,num_clips
+0,1,1
+1,106 15amc,1
+2,125lb,4
+3,155lb,5
+4,180,5
+5,180 degree jump,1
+6,180 jump,1
+7,195lb,4
+8,2 foot jump,1
+9,2 jump,2
+10,270,2
+11,3 step,7
+12,360,4
+13,360 degree,1
+14,360 degree two person whip,1
+15,360 jump,2
+16,360 smallstumble,2
+17,90,2
+18,90 10amc,1
+19,90 degree left turn,12
+20,90 degree right turn,10
+21,90 degree right turns,1
+22,90twistsfall,1
+23,Walk,1
+24,a,1
+25,a catches keys thrown by b,2
+26,a comforts b,8
+27,a gives b a shoulder rub,2
+28,a leads the way,2
+29,a passes soda to b,2
+30,a picks up high stool,2
+31,a pulls b,4
+32,a pulls b by the elbow,4
+33,a pulls up b,2
+34,a shelters b,4
+35,a sits,6
+36,a stand,2
+37,a stares down b,4
+38,a stumbles into b,2
+39,a younger child,4
+40,above,1
+41,acheywalk,2
+42,acrobatics,1
+43,adjust hair walk forward,1
+44,against,1
+45,airplane,1
+46,alaska vacation,26
+47,alien turn,1
+48,alternating,4
+49,angle,1
+50,angrily grab,3
+51,angry hand gesture,4
+52,animal,2
+53,ankle on other knee,1
+54,answering a phone,2
+55,arching,3
+56,arguing,1
+57,arm,9
+58,arm up wide leg roll,1
+59,arm wrestle,2
+60,arms,1
+61,arms held high,2
+62,around,1
+63,around the world high five low,1
+64,attitudearabesque,8
+65,attitudewalk,2
+66,attitudewalkrightangleturn,1
+67,avoid attacker,1
+68,avoid stepping on something,1
+69,axis,1
+70,b,1
+71,b catches keys thrown by a,6
+72,b joins a,2
+73,b kneels,2
+74,b pounds high stool,2
+75,b pulls up a,2
+76,b resist,7
+77,b sits,4
+78,back stroke,2
+79,backflip,3
+80,backflips,1
+81,backward,15
+82,bad amc,1
+83,badstartsequnce,1
+84,balance,2
+85,balance beam,1
+86,balance object on forehead,1
+87,balance on one leg,3
+88,balancing,12
+89,ball mount,1
+90,bang on high object,2
+91,bannanapeelslip,1
+92,baseball bunt,1
+93,baseball pitch,2
+94,baseball swing,1
+95,basketball,31
+96,basketball free throw,1
+97,basketball jump shot,1
+98,basketball lay up,1
+99,basketball shoot,1
+100,bassai,1
+101,bck flp twst fall,2
+102,bear,8
+103,bend,3
+104,bend elbow by ear,1
+105,bend from waist,6
+106,bend over,4
+107,bending,4
+108,bending back,4
+109,bird,2
+110,bkwd summersult,1
+111,blind mans bluff,2
+112,block,2
+113,bolt loosening,2
+114,bolt tightening,3
+115,both drink,2
+116,bouncing basketball,1
+117,bouncy walk,6
+118,bow,2
+119,box jump,1
+120,boxing,11
+121,break stroke,7
+122,breakdance,1
+123,breaksequencewithflip,1
+124,bring back leg forward,3
+125,brisk walk,1
+126,brushing teeth,1
+127,butterfly,1
+128,buying something,1
+129,bwk ball walk,1
+130,calibration,2
+131,careful,1
+132,careful creeping,2
+133,careful ready pose,3
+134,careful run,2
+135,careful run in circle,1
+136,careful run in figure eight,1
+137,careful walk,4
+138,carefulwalk lookingaround,2
+139,carry,2
+140,carry 55lb suitcase,13
+141,carry back object,1
+142,cartwheel,11
+143,cartwheel into backflip,1
+144,cartwheels,2
+145,casual walk forward,1
+146,casualquickwalk,2
+147,casualwalk,3
+148,cat,7
+149,cat coffee mug,1
+150,cat pick up,1
+151,cat wait,1
+152,cat walk,1
+153,catch,6
+154,catch and throw,1
+155,catch and throw football,1
+156,channel surfing,1
+157,charleston 01,2
+158,charleston side by side male,4
+159,chicken,15
+160,chicken coffee mug,1
+161,chicken dance,5
+162,chicken pick up,1
+163,chicken wait,1
+164,chicken walk,1
+165,childish,1
+166,chin in hand,1
+167,chip monk,1
+168,chipmunk,1
+169,chopping,2
+170,chopping onion,1
+171,chopping wood,2
+172,chug a beer,1
+173,chugging,1
+174,clean,98
+175,cleaned,4
+176,cleanedgr,31
+177,cleaning up,1
+178,cleaning window,1
+179,climb,28
+180,climb ladder,5
+181,climb up and down ladder,1
+182,closing,1
+183,closing a box,1
+184,closing umbrella,2
+185,clumsy,2
+186,clumsywalk,2
+187,cock robin,15
+188,coiling a rope,1
+189,cold,1
+190,combing hair,1
+191,comforts a,2
+192,confident walk forward,1
+193,conversation,6
+194,cool,1
+195,coolwalk,2
+196,cou,1
+197,coupe dessous,2
+198,cow,1
+199,crawling,1
+200,creep,1
+201,creeping walk,3
+202,creeping with limp,1
+203,cross,1
+204,cross leg run,1
+205,crossover dribble,2
+206,crouch,1
+207,crying,3
+208,curl,4
+209,curtsey,3
+210,cyclic walk along a line,1
+211,dance,35
+212,dancing animal,1
+213,dancing ant,1
+214,dancing bear,1
+215,dangle,1
+216,dangle legs,5
+217,de,1
+218,defensive guard pose,1
+219,defensiveleftstoptostop,3
+220,defensivemovesidetoside,4
+221,defensivemovezigzag,2
+222,defensivestraightnostop,5
+223,depressed,1
+224,depressedwalk,2
+225,descend,2
+226,devil,1
+227,dialing phone,2
+228,digging,1
+229,digging a hole,1
+230,digital8,1
+231,dinosaur,2
+232,dinosaur coffee mug,1
+233,dinosaur pick up,1
+234,dinosaur wait,1
+235,dinosaur walk,1
+236,direct traffic,6
+237,direction,1
+238,distance,2
+239,dog,7
+240,down,11
+241,drag heavy object,2
+242,dragbadlegwalk,2
+243,dragging,1
+244,dragon,3
+245,dres,1
+246,dribble,3
+247,dribble basketball,1
+248,drink soda,6
+249,drink water,1
+250,drinking,3
+251,drinking a soda,1
+252,drinking from bottle,1
+253,drinking water,1
+254,driving,2
+255,drop,2
+256,drum,1
+257,drumming,1
+258,drunk coffee mug,1
+259,drunk pick up,1
+260,drunk wait,1
+261,drunkwalk,3
+262,duck to avoid flying object,1
+263,duck under,1
+264,ducking,1
+265,dustpan,1
+266,dynamic calibration,1
+267,eating,1
+268,eating a sandwich,1
+269,eating dinner,1
+270,eating soup,2
+271,egyptian walk,3
+272,elated,1
+273,elderlyman,1
+274,elephant,7
+275,empi,2
+276,endofbreakdance,1
+277,exact,2
+278,exaggerated stride,1
+279,excitedwalk,1
+280,explain with hand gesture,4
+281,expressive arms,1
+282,fakeshotbreakleft,3
+283,fakeshotbreakright,1
+284,fall,1
+285,fall on face,1
+286,fancyfootwork,1
+287,fast free style dribble,1
+288,feign a few attacks,1
+289,feintleftmoveright,2
+290,feintrightmoveleft,2
+291,fidget,2
+292,fish,3
+293,fishing,3
+294,fists up,3
+295,fix hair,1
+296,flamingo,2
+297,flexing,1
+298,flip,3
+299,flip forward onto hands and back again,1
+300,flips,2
+301,fly stroke,4
+302,fold in from side arabesque,4
+303,folded in,1
+304,folding,1
+305,folding arms,1
+306,follow path,3
+307,foot to foot,1
+308,football,5
+309,footfall,2
+310,forearm,1
+311,forward,5
+312,forward dribble,9
+313,forward jump,9
+314,forward jumps,1
+315,frankenstein male walk,1
+316,free style,4
+317,freezing,2
+318,frequent turns,1
+319,friends meet,2
+320,frisbee,2
+321,from harm,4
+322,front hand flip,2
+323,front kick,1
+324,front kicking,2
+325,frustration,2
+326,furtherjumpturn,2
+327,fwd ball walk,2
+328,gangly teen coffee mug,1
+329,gangly teen pick up,1
+330,gangly teen wait,2
+331,gedanbarai,1
+332,genie,1
+333,get up,2
+334,get up face down,2
+335,get up from chair,5
+336,get up from floor,3
+337,get up from ground,2
+338,get up from ground laying on back,3
+339,get up laying on side,2
+340,getting up,4
+341,getting up from laying down,1
+342,ghettowalk,2
+343,ghost,2
+344,giving,1
+345,glissade derriere,2
+346,glissade devant,2
+347,go,3
+348,go forward,4
+349,go under,3
+350,gorilla,2
+351,gr,3
+352,grab,2
+353,graceful lady coffee mug,1
+354,graceful lady pick up,1
+355,graceful lady wait,2
+356,grip bar,2
+357,ground,1
+358,halt,1
+359,hammering a nail,2
+360,hammering sequence,1
+361,hand,11
+362,hand mixing dough,1
+363,hand on chin,1
+364,hand saw,1
+365,hand shake,1
+366,hand signals,3
+367,hand spring,1
+368,hands against chin,2
+369,handstand,1
+370,handstandkick,1
+371,handstands,1
+372,hang,4
+373,hang out,2
+374,hanging picture,2
+375,happy,2
+376,happy or fast walk forward,1
+377,happygoluckwalk,1
+378,happystartwalk,1
+379,hard days drink,1
+380,head lowered,1
+381,headphone,2
+382,heavyset persons walk,2
+383,heiansyodan,1
+384,height,2
+385,helicopter,1
+386,high five,3
+387,high jump,2
+388,high sit,1
+389,hip,1
+390,hippo ballerina,1
+391,hold hands,2
+392,hold self up with arms straight,1
+393,holding a baby,1
+394,holds face in hands,2
+395,hop,3
+396,hop on left foot,6
+397,hop on one foot,2
+398,hop turn 90 degrees left in air,5
+399,hop turn left 180 degrees in air,6
+400,hopscotch,3
+401,horizontally,1
+402,horse,1
+403,hummingbird,3
+404,hurt right leg,5
+405,hurtlegwalk,2
+406,hurtstomachwalk,2
+407,idle,2
+408,im a little teapot,16
+409,insectpraying,2
+410,investigating,1
+411,inward,4
+412,jack,4
+413,jete,2
+414,jete en tourant,6
+415,jog,5
+416,jogstop,2
+417,jogthrough,2
+418,joy,1
+419,jump,48
+420,jump around,2
+421,jump backwards off ledge,4
+422,jump down,3
+423,jump kick,4
+424,jump off ledge,3
+425,jump onto platform,1
+426,jump over,3
+427,jump over stepstool,4
+428,jump stop,2
+429,jump up,2
+430,jump up to grab,5
+431,jump with kick,1
+432,jumpbound,1
+433,jumpforward,10
+434,jumphop,1
+435,jumping,8
+436,jumping jacks,7
+437,jumping on one foot,1
+438,jumping on one leg,1
+439,jumps,1
+440,jumps kicks,1
+441,jumpturn,10
+442,jumptwist,5
+443,kick,6
+444,kick ball,6
+445,kickflip,1
+446,kickflipstumble,1
+447,kicking,4
+448,knee,4
+449,knee kicking,1
+450,lambada dance,1
+451,large,1
+452,large sidestep to right,4
+453,large step to a short ledge,1
+454,large step to left,2
+455,laugh,6
+456,laughing,2
+457,lavish,1
+458,lavishwalk,2
+459,lay,1
+460,lay down,2
+461,laying down,4
+462,lean back,1
+463,lean back on bent leg,1
+464,lean forward,5
+465,lean over,1
+466,lean turn left,1
+467,lean turn right,1
+468,leans with hands on high stool,4
+469,leap,3
+470,leave,1
+471,left,2
+472,left blocks,1
+473,left front kicking,2
+474,left lunges,1
+475,left spin reach,2
+476,leftdrive,2
+477,lefttightturn,1
+478,leftwideturn,2
+479,leg,5
+480,leg bent,1
+481,lift,2
+482,lift arm,1
+483,lift legs high,2
+484,lift open window,5
+485,lifting up,2
+486,like,1
+487,limp,2
+488,limping,5
+489,lindyhop2,2
+490,link arms,4
+491,little,2
+492,long,1
+493,long jump forward,4
+494,longsequencegood,1
+495,look around with flashlight,1
+496,looking,1
+497,looking around,7
+498,lost marker,1
+499,low,1
+500,low five,2
+501,low sit,1
+502,lower self to ground,2
+503,lunge,2
+504,lunges,1
+505,macarena dance,1
+506,machowalk,2
+507,making coffee,1
+508,making dough,1
+509,manti,2
+510,march,4
+511,marching,12
+512,mawashigeri,1
+513,medium hop forward,4
+514,medium sidestep to left,3
+515,medium sit,2
+516,medium step forward,2
+517,medium step to left,5
+518,mickey cast spell,1
+519,mickey conducting,1
+520,mickey dance,3
+521,mickey sneaky walk,7
+522,mickey surprised,2
+523,mickey walk,2
+524,mixing batter,2
+525,monkey,13
+526,monkey backflip,1
+527,monkey sequence,2
+528,monkeybear,1
+529,moonwalk,1
+530,mop floor,2
+531,mope,2
+532,mope around,1
+533,motion,1
+534,motorcycle,16
+535,motorcyclepose,7
+536,mouse,7
+537,movie,1
+538,moving,1
+539,moving a stool,1
+540,moving heavy box,1
+541,mummy8,2
+542,mummydigital8,2
+543,mummywalk,2
+544,muscular,2
+545,navigate,11
+546,navigate around stepstool,3
+547,navigate busy sidewalk,2
+548,neutral male walk,1
+549,no movie,1
+550,normal coffee mug,1
+551,normal pick up,1
+552,normal wait,1
+553,normal walk,2
+554,normal walk forward,2
+555,normalwalk,12
+556,nursery rhyme,33
+557,obstacle,4
+558,off,1
+559,offensivemovegoleft,4
+560,offensivemovegoright,6
+561,oiduki,1
+562,old man coffee mug,1
+563,old man pick up,1
+564,old man wait,1
+565,old man walk,1
+566,on,7
+567,on a diagonal,9
+568,on toe,4
+569,opening,1
+570,opening a box,2
+571,opening umbrella,2
+572,outstretched,3
+573,over,1
+574,pacing,1
+575,painfulleftknee,1
+576,paint,2
+577,paint figure eights,1
+578,painting,3
+579,panda,1
+580,panther,1
+581,pass,1
+582,pause,1
+583,paying for something,1
+584,peekaboo,4
+585,peeping,2
+586,penguin,4
+587,person,1
+588,piano,1
+589,pick box up,6
+590,pick up,3
+591,pick up laundry basket,1
+592,pick up object,8
+593,picking box up,4
+594,picking up ball,5
+595,picking up something,1
+596,pied,1
+597,pigeon toed walking,1
+598,pirouette,4
+599,pirouettes,1
+600,pivoting,2
+601,placing ball,5
+602,placing tee,5
+603,planting a flower,1
+604,planting a plant,1
+605,planting a tree,1
+606,playground,16
+607,playing,1
+608,playing piano,1
+609,playing violin,1
+610,pointe tendue a terre,1
+611,points at a,2
+612,poking around on the ground,3
+613,poking ground,1
+614,prairie dog,11
+615,pterosaur,4
+616,pull heavy object,1
+617,pull up,1
+618,pulling a gun,1
+619,pulling a nail,1
+620,pump jump,1
+621,punch,2
+622,punch kick,1
+623,punch sequence,4
+624,punche,1
+625,punches,1
+626,punching,5
+627,punchstrike,1
+628,push,1
+629,push broom,1
+630,push heavy box,1
+631,push heavy object,3
+632,push object that is high in air,2
+633,push turn left,2
+634,push turn right,2
+635,pushing broom,1
+636,pushing swing,2
+637,pushup,1
+638,puts one hand on bs shoulder,8
+639,putt,5
+640,putting,3
+641,putting on a ball cap,1
+642,putting on a hat,3
+643,putting on a pull over,1
+644,putting on a skirt,1
+645,putting on a sweater,1
+646,putting on button up sweater,1
+647,putting on deoderant,1
+648,quail,2
+649,quarrel,4
+650,quasi,1
+651,quick,3
+652,quickwalk,2
+653,raised,1
+654,rake,1
+655,raking,1
+656,random walk,2
+657,rangeofmotion,17
+658,reach for,7
+659,reach left,2
+660,reach right,2
+661,reach up,1
+662,ready stance,1
+663,regularwalk8,1
+664,regularwalkrightangleturn,1
+665,relaxed,1
+666,repeat,1
+667,resist,1
+668,retire derriere,2
+669,revolve,1
+670,rex,1
+671,right,1
+672,right blocks,1
+673,right spin reach,1
+674,rightdrive,2
+675,righttightturn,1
+676,rightwideturn,3
+677,ring around the rosey,2
+678,ring around the rosie,2
+679,rise,1
+680,roadrunner,2
+681,robot,1
+682,robotic like motion,1
+683,rock back,1
+684,roll over,1
+685,rond de jambe in the air,1
+686,rope,1
+687,rotate head,1
+688,rowing,2
+689,rugpullfall,1
+690,run,52
+691,run around in a circle,1
+692,run dive over roll run,4
+693,run duck underneath,7
+694,run figure 8,1
+695,run in circle,2
+696,run jump,3
+697,run jump over,4
+698,run jump stop run,2
+699,run left,3
+700,run over,4
+701,run quick stop run,2
+702,run right,3
+703,run roll underneath,1
+704,run side step left,1
+705,run side step right,1
+706,run stop run,6
+707,run to quick stop,1
+708,run to sneak,1
+709,run to stop,1
+710,run turn left,1
+711,run turn right,1
+712,runjog,21
+713,running,3
+714,runningnoball,2
+715,runningstraight,3
+716,runningtighterright,1
+717,runningwideleft,4
+718,runningwideright,1
+719,runstop,2
+720,runthrough,2
+721,rush up,2
+722,rushed,1
+723,russian dance,2
+724,sad,2
+725,sadwalk,2
+726,salsa dance,30
+727,sawing,1
+728,scared,3
+729,scaredwalk,2
+730,scoop up,1
+731,scramble for last seat,4
+732,screw on bottlecap,2
+733,search,3
+734,searching ground,1
+735,sequesnce,1
+736,set down in another place,6
+737,set down object,1
+738,setting glass of water,1
+739,sewing,3
+740,sexy,1
+741,sexy lady coffee mug,1
+742,sexy lady pick up,1
+743,sexy lady wait,2
+744,sexywalk,2
+745,shake,5
+746,shaking,2
+747,shaving,1
+748,shifted,1
+749,shifting weight,1
+750,shoot,2
+751,shooting a gun,2
+752,shooting basketball,1
+753,shooting bow and arrow,1
+754,short hop forward,2
+755,short sidestep to left,3
+756,short sidestep to right,2
+757,short step forward,2
+758,shot,1
+759,shoulder,3
+760,shoulders,1
+761,shrug,3
+762,shy,1
+763,shywalk,2
+764,side arabesque,1
+765,side flip,1
+766,side twists,6
+767,sidestep to right then back to left,1
+768,sidestep to the right,1
+769,sideway,6
+770,sideways arabesque,2
+771,sideways dribble,2
+772,sideways steps,1
+773,signal,17
+774,silent walk,1
+775,singing in the rain jump,2
+776,sipping coffee,1
+777,sipping martinee,1
+778,sit,6
+779,sit down,1
+780,sit down and get up,1
+781,sit in chair,1
+782,sit on,1
+783,sit on high stool,6
+784,sit on stepstool,8
+785,sit on stool,1
+786,sit on stool and get up,1
+787,sitting,2
+788,sitting in chair,1
+789,sitting on ground relaxing,1
+790,skip,3
+791,slap hands,1
+792,slicing,1
+793,slicing bread,1
+794,slope1,6
+795,slow,1
+796,slow down,1
+797,slow walk,2
+798,slowwalk,10
+799,slowwalkrightangleturn,1
+800,small jetes,2
+801,smallforward,6
+802,smalljumpturn,2
+803,smash against wall,3
+804,smoking,1
+805,snake,7
+806,sneak,4
+807,sneaking,5
+808,soccer,6
+809,soldiers march,4
+810,spasticstop,2
+811,spasticwalk,1
+812,spin,2
+813,spin kick,1
+814,spin kicks,1
+815,spin upside down,1
+816,spins,2
+817,spintwirl,1
+818,squat,2
+819,squats,5
+820,squirrel,3
+821,sraightdrivefromstop,2
+822,stair,14
+823,stand on one hand,2
+824,stand on stepstool,1
+825,stand still,1
+826,stand up,14
+827,standing,1
+828,standing still,2
+829,start,3
+830,start duck underneath stop,2
+831,start hop stop,2
+832,start to run,1
+833,start walk left,3
+834,start walk right,3
+835,start walk stop,2
+836,startjog,2
+837,startrun,3
+838,static dance pose,1
+839,static pose,3
+840,steop on walk down,1
+841,step,2
+842,step down ladder,1
+843,step over,10
+844,stepping down,1
+845,stepping over,3
+846,stepping up,8
+847,steps,1
+848,sternwalk,3
+849,sternwalkrightangleturn,1
+850,stiff,2
+851,stiff walk,3
+852,stop,5
+853,story,45
+854,straight walk,2
+855,stretch,10
+856,stretch and yawn,4
+857,stretch walk,5
+858,stretche,2
+859,stretches,2
+860,stretching,10
+861,strew,1
+862,strong man coffee mug,1
+863,strong man pick up,1
+864,strong man wait,2
+865,stumblewalk,1
+866,subject calibration,1
+867,sudden stop,2
+868,sun salutation,3
+869,superhero,2
+870,supertightleft,3
+871,supertightright,1
+872,swatting at a fly,1
+873,swatting at pesky bug,1
+874,sweep floor,4
+875,sweeping,4
+876,swimming,3
+877,swing,17
+878,swing arms,2
+879,swing body,2
+880,swinging,3
+881,swinging arms,1
+882,swordplay,3
+883,synchronized,2
+884,synchronized walk,4
+885,syutouuke,1
+886,t,1
+887,tai chi,1
+888,takes b by the arm,2
+889,taking a movie,1
+890,teaching,1
+891,terrain,1
+892,the cabbage patch,2
+893,the dive,3
+894,the twist,3
+895,then attack,1
+896,thing,2
+897,thinker,1
+898,threatens to strike b,2
+899,through,1
+900,throw,6
+901,throw ball,1
+902,throw it back,1
+903,throw punches,4
+904,tiger,1
+905,tiptoe,5
+906,toocoolwalk,2
+907,tos,1
+908,toss,1
+909,tpose,2
+910,trafficwalk,2
+911,trial dont match,1
+912,turn,10
+913,turn around,6
+914,turn in place,10
+915,turn right 360 degrees in air,2
+916,turn step,1
+917,turning,2
+918,tv,1
+919,twist,1
+920,two,2
+921,two handed dribble,1
+922,typing on a laptop,1
+923,tyrannosaurus rex,3
+924,underhand,1
+925,underhand fast pitch,1
+926,uneven,1
+927,unknown,90
+928,unscrew bottlecap,3
+929,up,10
+930,up a ledge,1
+931,upper body rotation,1
+932,uprightsequence,2
+933,upset,1
+934,using a palm pilot,1
+935,vacuuming,2
+936,various,1
+937,veer left,7
+938,veer right,8
+939,vertical,1
+940,very happy,1
+941,very large sidestep to right,2
+942,vignettes,7
+943,violence,2
+944,violin,1
+945,wait for bus,2
+946,waiting,1
+947,walk,158
+948,walk and pick up box,3
+949,walk and step over,3
+950,walk around,6
+951,walk at a brisk pace,1
+952,walk back,5
+953,walk backward,9
+954,walk backwards,3
+955,walk backwards and turn,5
+956,walk backwards bent forward,4
+957,walk backwards crouched,4
+958,walk backwards then attack with a punch,1
+959,walk bent forward,2
+960,walk crawl,2
+961,walk crossover,1
+962,walk crouched,2
+963,walk digital figure eight,1
+964,walk duck footed,1
+965,walk fast,6
+966,walk figure eight,1
+967,walk forward,29
+968,walk forward turn 90 degrees left walk forward,4
+969,"walk forward, 90 degree right turn""",10
+970,walk jauntily,2
+971,walk jump,5
+972,walk leaning to the right,2
+973,walk left,3
+974,walk on toes bent forward,2
+975,walk on toes crouched,2
+976,walk on uneven terrain,37
+977,walk right,4
+978,walk sideway,4
+979,walk sideways,3
+980,walk sideways and turn,25
+981,walk slow,7
+982,walk stealthily,2
+983,walk stop walk,3
+984,walk to run,1
+985,walk up,6
+986,walk up ladder,1
+987,walk up stairs and over,1
+988,walk up to object,6
+989,walk with anger,2
+990,walk with arms out,12
+991,walk with knees bent,1
+992,walk with legs apart,1
+993,walk with wild arm,1
+994,walk with wild leg,2
+995,walk wounded leg,5
+996,walk zigzag,1
+997,walkdigital8,3
+998,walkevasiveleft,3
+999,walkevasiveright,1
+1000,walkfigure8,3
+1001,walkforward,9
+1002,walkhobble,1
+1003,walking,15
+1004,walking around,1
+1005,walking up,1
+1006,walkstraight,4
+1007,walkstride,2
+1008,walkwander,4
+1009,wash,6
+1010,wash self,1
+1011,wash windows,4
+1012,washing,1
+1013,washing window,3
+1014,wave,8
+1015,wave hello,1
+1016,waving,1
+1017,weight lifting,1
+1018,whale,4
+1019,whip,1
+1020,whirl,1
+1021,whistle,2
+1022,wide leg roll,3
+1023,wide leg run,1
+1024,window,6
+1025,wipe mirror,1
+1026,wipe window,5
+1027,with,4
+1028,with putting bolt in,1
+1029,wrench,3
+1030,writing on a chalkboard,2
+1031,xtra fancy charleston,2
+1032,yawn,7
+1033,yoga,6
+1034,yokogeri,1
+1035,zombie,1
+1036,zombie march,2
+1037,zombiewalk,2
+1038,zombiewalkrightangleturn,1
