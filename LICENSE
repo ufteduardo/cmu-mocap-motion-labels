@@ -1,0 +1,11 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The annotation files in this repository (data/cmu_motion_labels.csv, data/labels_map.json,
+data/raw_to_labels.csv, data/label_frequencies.csv and data/flagged_label_inconsistencies.csv)
+are licensed under the Creative Commons Attribution 4.0 International License.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+The original CMU motion descriptions (data/cmu-mocap-index-text.txt) belong to the
+CMU Graphics Lab Motion Capture Database (http://mocap.cs.cmu.edu/) and are subject to its
+terms of use. The database was created with funding from NSF EIA-0196217.

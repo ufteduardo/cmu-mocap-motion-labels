@@ -1,0 +1,75 @@
+motion_id,original_cmu_description,labels_used,inconsistent_labels
+01_07,"playground - climb, sit, dangle legs, jump down",playground | climb | sit | dangle legs | descend,descend
+06_06,basketball - backward dribble,basketball | forward dribble,forward dribble
+06_07,basketball - backward dribble,basketball | forward dribble,forward dribble
+06_11,"basketball - forward dribble, 90-degree right turns",basketball | forward dribble | 90 degree left turn,90 degree left turn
+13_06,"sit on stepstool, hands against chin, elbow out, stand up",sit on stepstool | hands against chin | fidget | stand up,fidget
+13_29,"jumping jacks, side twists, bend over, squats",jumping jacks | side twists | bend over | jog,jog
+16_19,"walk, 90-degree right turn",run | 90 degree right turn,run
+16_20,"walk, 90-degree right turn",run | 90 degree right turn,run
+16_29,"walk, 90-degree right turn",run | 90 degree right turn,run
+16_30,"walk, 90-degree right turn",run | 90 degree right turn,run
+16_41,"run/jog, 90-degree left turn",run | 90 degree right turn,90 degree right turn
+16_42,"run/jog, 90-degree left turn",run | 90 degree right turn,90 degree right turn
+22_24,walk; B catches wallet thrown by A (2 subjects - subject A),walk | b catches keys thrown by a,b catches keys thrown by a
+22_25,walk; A catches wallet thrown by B (2 subjects - subject A),walk | b catches keys thrown by a,b catches keys thrown by a
+23_24,walk; B catches wallet thrown by A (2 subjects - subject B),walk | b catches keys thrown by a,b catches keys thrown by a
+23_25,walk; A catches wallet thrown by B (2 subjects - subject B),walk | b catches keys thrown by a,b catches keys thrown by a
+62_04,screwing,sewing,sewing
+62_05,screwing,sewing,sewing
+62_06,unscrewing,sewing,sewing
+69_31,walk forward 90 degree smooth left turn,"walk forward, 90 degree right turn""","walk forward, 90 degree right turn"""
+69_32,walk forward 90 degree smooth left turn,"walk forward, 90 degree right turn""","walk forward, 90 degree right turn"""
+69_33,walk forward 90 degree smooth left turn,"walk forward, 90 degree right turn""","walk forward, 90 degree right turn"""
+69_51,walk backwards and turn,walk sideways and turn,walk sideways and turn
+69_52,walk backwards and turn,walk sideways and turn,walk sideways and turn
+69_53,walk backwards and turn,walk sideways and turn,walk sideways and turn
+69_54,walk backwards and turn,walk sideways and turn,walk sideways and turn
+69_55,walk backwards and turn,walk sideways and turn,walk sideways and turn
+70_03,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_04,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_05,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_06,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_07,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_08,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_09,carry 19.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_10,carry 12.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_11,carry 12.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_12,carry 12.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+70_13,carry 12.5lb suitcase,carry 55lb suitcase,carry 55lb suitcase
+79_05,sewing,swing,swing
+79_23,putting on a jacket,putting on a hat,putting on a hat
+80_02,chopping onions,with,with
+80_04,sewing,swing,swing
+80_15,putting on a coat,putting on a hat,putting on a hat
+80_20,planting,painting,painting
+81_14,climb backwards off ledge,jump backwards off ledge,jump backwards off ledge
+81_15,climb backwards off ledge,jump backwards off ledge,jump backwards off ledge
+83_07,short sidestep to right and down,short sidestep to left | up,short sidestep to left | up
+83_09,short step forward and down,short step forward | up,up
+83_12,medium sidestep to right and down,medium step to left | down,medium step to left
+83_14,short sidestep to left and down,short sidestep to left | up,up
+83_15,short step forward,short hop forward,short hop forward
+83_17,medium step to left and down,medium step to left | up,up
+83_18,short step to left and forward,large step to left | forward,large step to left
+83_20,medium step forward,medium hop forward,medium hop forward
+83_37,walk forward turn 90 degrees right walk forward,walk forward turn 90 degrees left walk forward,walk forward turn 90 degrees left walk forward
+83_39,walk forward turn 90 degrees right walk forward,walk forward turn 90 degrees left walk forward,walk forward turn 90 degrees left walk forward
+83_40,hop forward,go forward,go forward
+83_41,hop forward,go forward,go forward
+83_44,medium step forward,medium hop forward,medium hop forward
+83_45,hop forward,go forward,go forward
+83_54,hop turn 180 degrees left in air,hop turn 90 degrees left in air,hop turn 90 degrees left in air
+83_55,medium sidestep to right,medium sidestep to left,medium sidestep to left
+83_58,hop turn left 270 degrees in air,hop turn left 180 degrees in air,hop turn left 180 degrees in air
+83_59,hop turn left 270 degrees in air,hop turn left 180 degrees in air,hop turn left 180 degrees in air
+83_60,hop turn left 270 degrees in air,hop turn left 180 degrees in air,hop turn left 180 degrees in air
+83_61,hop turn 360 degrees left in air,hop turn 90 degrees left in air,hop turn 90 degrees left in air
+83_62,hop turn left 360 degrees in air,hop turn left 180 degrees in air,hop turn left 180 degrees in air
+83_68,medium sidestep to right,medium sidestep to left,medium sidestep to left
+137_20,Gangly Teen Walk,gangly teen wait,gangly teen wait
+137_24,Graceful Lady Walk,graceful lady wait,graceful lady wait
+137_38,Sexy Lady Walk,sexy lady wait,sexy lady wait
+137_42,Strong Man Walk,strong man wait,strong man wait
+144_03,Figure8s,unknown,unknown
+144_04,Figure8s001,unknown,unknown
